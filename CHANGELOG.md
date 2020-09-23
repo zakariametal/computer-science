@@ -1,5 +1,7 @@
 # Change Log
 
+**Note**: The curriculum is currently undergoing review for v9. This consists largely of checking our recommendations against our [curricular guidelines](CURRICULAR_GUIDELINES.md), adding missing topics and cutting redundant or out of scope courses. As Requests for Comment in this effort are completed, changes are made immediately to the curriculum. When the overall review is complete we will notate the version bump to v9.
+
 All notable changes to this project will be documented in this file.
 This project adheres *in spirit* to [Semantic Versioning](http://semver.org/):
 - "MAJOR" updates correspond to changing the topics studied within a subject
@@ -118,7 +120,7 @@ Complete overhaul of program structure
 - Elective course: Game Theory
 - Elective specializations:
   - Robotics
-  - Data Minig
+  - Data Mining
   - Big Data
   - Internet of Things
   - Cloud Computing
@@ -135,7 +137,7 @@ Complete overhaul of program structure
 - Removed many dead links and obsolete courses
 - Removed per-course project requirement
 - Course: Object-Oriented Programming in Java
-- Course: Funtional Programming in Scala
+- Course: Functional Programming in Scala
 - Course: Computer Architecture (but left as a footnote)
 - Course: Intro to Theoretical Computer Science
 - Course: Software Processes and Agile Practices
