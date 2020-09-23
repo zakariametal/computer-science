@@ -22,7 +22,8 @@ Name | Author(s)
 [Code Complete 2e](https://www.amazon.com/Code-Complete-Practical-Handbook-Construction/dp/0735619670) | Steve McConnell
 [The Pragmatic Programmer](https://www.amazon.com/Pragmatic-Programmer-Journeyman-Master/dp/020161622X) | Andrew Hunt, David Thomas
 [Programming Languages: Application and Interpretation](http://cs.brown.edu/~sk/Publications/Books/ProgLangs/) | Shriram Krishnamurthi
-[Programming and Programming Languages](http://papl.cs.brown.edu/2016/) | Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz
+[Programming and Programming Languages](https://papl.cs.brown.edu/2018/) | Shriram Krishnamurthi, Benjamin S. Lerner, Joe Gibbs Politz
+[Competitive Programming](https://cpbook.net/) | Steven Halim, Felix Halim
 
 ## Math
 
@@ -40,6 +41,7 @@ Name | Author(s)
 
 Name | Author(s)
 :-- | :--:
+[But How Do It Know?](http://www.buthowdoitknow.com/) | J. Clark Scott
 [Computer Systems: A Programmer's Perspective (3rd Edition)](http://csapp.cs.cmu.edu/) | Randal E. Bryant, David R. O'Hallaron
 [Modern Operating Systems (4th Edition)](http://www.amazon.com/Modern-Operating-Systems-Andrew-Tanenbaum/dp/013359162X/) | Andrew S. Tanenbaum, Herbert Bos
 [Computer Organization and Design: The Hardware/Software Interface](https://www.amazon.com/gp/product/0124077269) | David Patternson, John Hennessy
@@ -76,6 +78,6 @@ Name | Author(s)
 [Bayesian Reasoning and Machine Learning](http://web4.cs.ucl.ac.uk/staff/D.Barber/pmwiki/pmwiki.php?n=Brml.HomePage) | David Barber
 [Language Implementation Patterns](https://www.amazon.com/gp/product/193435645X) | Terence Parr
 [Compilers: Principles, Techniques, and Tools (2nd Edition)](http://www.amazon.com/Compilers-Principles-Techniques-Tools-2nd/dp/0321486811/) | Alfred V. Aho, Monica S. Lam, Ravi Sethi,  Jeffrey D. Ullman
-[Compiler Construction](http://www.ethoberon.ethz.ch/WirthPubl/CBEAll.pdf) | Niklaus Wirth 
+[Compiler Construction](https://inf.ethz.ch/personal/wirth/CompilerConstruction/index.html) | Niklaus Wirth 
 [The Mythical Man-Month](https://www.amazon.com/Mythical-Man-Month-Software-Engineering-Anniversary/dp/0201835959/) | Fred Brooks, Jr.
 [Physically Based Rendering: From Theory To Implementation](http://www.pbr-book.org/) | Matt Pharr, Wenzel Jakob, and Greg Humphreys
